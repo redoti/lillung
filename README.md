@@ -1,6 +1,8 @@
 # Introduction
 
-A simple Web App that containing and using dataset from [Kaggle](https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images) to do image classification Pediatric Pneumonia (1 - 5 years old children chest x-ray).
+A simple Web App that containing and using dataset from [Kaggle](https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images) to do image classification Pediatric Pneumonia (1 - 5 years old children).
+
+![img](https://cdn.discordapp.com/attachments/994806484942721025/1186582967259242526/Screenshot_26.png?ex=6593c681&is=65815181&hm=31a406660b84dd9d459d949bfc699a46b52c88a733e44b125e51b9119c47a88f&)
 
 # Environment Setup
 
@@ -54,7 +56,3 @@ flask run
 
 ### Result Non Chest-Xray
 ![img](https://cdn.discordapp.com/attachments/994806484942721025/1186563230961762364/Screenshot_17.png?ex=6593b41f&is=65813f1f&hm=75cf50e257580e43321d596bed58d38a7981fbf02edf7f2213cc7578409eebd1&)
-
-
-
-

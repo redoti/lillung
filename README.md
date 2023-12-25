@@ -16,7 +16,7 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html
 
 ### Download Source Code
 
-Open your terminal and run the following command or just download the `zip file`. My model that you can download it [here](https://drive.google.com/file/d/165eDzMkClIA7hufoXtlA0zx3KddnyYGE/view?usp=drive_link)
+Open your terminal and run the following command or just download the `zip file`. My model that you can download it [here](https://drive.google.com/file/d/165eDzMkClIA7hufoXtlA0zx3KddnyYGE/view?usp=drive_link).
 Make new folder named 'model' and place the model to that folder, it will looks like `lillung\model\Resnet50.h5`.
 ```javascripts
 git clone https://github.com/redoti/lillung.git

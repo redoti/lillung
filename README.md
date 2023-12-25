@@ -16,7 +16,7 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html
 
 ### Download Source Code
 
-Open your terminal and run the following command or just download the `zip file`. My model is not included, soon will be uploaded with external link.
+Open your terminal and run the following command or just download the `zip file`. My model that you can download it [here](https://drive.google.com/file/d/165eDzMkClIA7hufoXtlA0zx3KddnyYGE/view?usp=drive_link)
 ```javascripts
 git clone https://github.com/redoti/lillung.git
 ```

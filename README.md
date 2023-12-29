@@ -2,7 +2,7 @@
 
 LilLung is a simple deep learning web application that containing and using dataset from [Kaggle](https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images) to do image classification Pediatric Pneumonia (1 - 5 years old children).
 
-![img](https://cdn.discordapp.com/attachments/994806484942721025/1186582967259242526/Screenshot_26.png?ex=6593c681&is=65815181&hm=31a406660b84dd9d459d949bfc699a46b52c88a733e44b125e51b9119c47a88f&)
+![img](https://cdn.discordapp.com/attachments/994806484942721025/1190265207096872960/image.png?ex=65a12bdb&is=658eb6db&hm=d6d9230bf359ed42e5cf801b8fec6978bd93458078eee3a2d57ce39d756ccc7c&)
 
 # Environment Setup
 

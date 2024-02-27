@@ -2,7 +2,7 @@
 
 LilLung is a simple deep learning web application that containing and using dataset from [Kaggle](https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images) to do image classification Pediatric Pneumonia (1 - 5 years old children).
 
-![img](https://cdn.discordapp.com/attachments/994806484942721025/1190265207096872960/image.png?ex=65a12bdb&is=658eb6db&hm=d6d9230bf359ed42e5cf801b8fec6978bd93458078eee3a2d57ce39d756ccc7c&)
+![img](https://i.imgur.com/asqhMdT.png)
 
 # Environment Setup
 
@@ -50,10 +50,10 @@ flask run
 # Preview
 
 ### Result Pneumonia 
-![img](https://cdn.discordapp.com/attachments/994806484942721025/1186563229963526184/Screenshot_15.png?ex=6593b41f&is=65813f1f&hm=52e29b5136ef953c5ccda69127ad2b4a0001e628d5274cf774ac20f6bc4d69f7&)
+![img](https://i.imgur.com/Kv9M4kq.png)
 
 ### Result Normal
-![img](https://cdn.discordapp.com/attachments/994806484942721025/1186563230622027806/Screenshot_16.png?ex=6593b41f&is=65813f1f&hm=9bfb4718b7b3bb8196612a7b0f4340f24a6f45af753eb7fd72d9ac379fb9f5af&)
+![img](https://i.imgur.com/80Ga7pw.png)
 
 ### Result Non Chest-Xray
-![img](https://cdn.discordapp.com/attachments/994806484942721025/1186563230961762364/Screenshot_17.png?ex=6593b41f&is=65813f1f&hm=75cf50e257580e43321d596bed58d38a7981fbf02edf7f2213cc7578409eebd1&)
+![img](https://i.imgur.com/gtBf9lr.png)
